@@ -38,9 +38,7 @@ egg-project
 # create info
 
 url: http://49.232.145.56/api/v1/info
-
 method: POST
-
 request body:
 {
   "customKey": "444"
