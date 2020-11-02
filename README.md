@@ -30,10 +30,6 @@ egg-project
 │   ├── config.prod.js  (production config)
 |   ├── config.local.js (development config)
 └── test
-    ├── middleware
-    |   └── response_time.test.js
-    └── controller
-        └── home.test.js
 ```
 
 
