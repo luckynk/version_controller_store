@@ -7,7 +7,7 @@
 ![avatar](./doc/image/architecture.png)
 
 
-### project structure
+## project structure
 
 ```text
 egg-project
